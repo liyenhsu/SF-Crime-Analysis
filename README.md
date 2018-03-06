@@ -1,2 +1,2 @@
-# SF-Crime-Analysis
-Spatial and Time Series Analysis of San Francisco Crimes
+# Spatial and Time Series Analysis of San Francisco Crimes
+
